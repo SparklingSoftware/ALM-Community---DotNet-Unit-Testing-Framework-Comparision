@@ -4,3 +4,13 @@ obj
 
 # mstest test results
 TestResults
+
+bin/
+Bin/
+Obj/
+obj/
+
+
+packages/
+*.user
+*.suo
